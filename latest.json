@@ -1,7 +1,9 @@
 {
   "version": "1.0.1",
   "mandatory": false,
-  "notes": "Primera actualización de prueba",
+  "notes": "Primera actualización automática - Mejoras de estabilidad",
   "url": "https://github.com/1982carlos/pos-updates/releases/download/v1.0.1/update.zip",
-  "checksum": "123456"
+  "checksum": "0000000000000000000000000000000000000000000000000000000000000000000",
+  "releaseDate": "2026-05-09",
+  "minVersion": "1.0.0"
 }
